@@ -1,0 +1,32 @@
+html, body
+{
+	background-image:url("http://www.wallcoo.net/cartoon/abstract_blue_backgrounds_1920x1200/wallpapers/1920x1200/Abstract%20Blue%20backgrounds%208.jpg");
+	height: 98%;
+	width: 98%;
+	text-align: center;
+	font-size: 18px;
+}
+
+h1 {
+	color: blue;
+	font-size: 80px;
+}
+
+h2 {color:black;
+	height: 5%;
+	font-size: 40px;
+	text-align: center;
+}
+
+h3 {color:black;
+	font-size: 25px;
+	height: 5%;
+	user-select: none;
+	text-align: center;
+}
+
+
+
+
+
+}
