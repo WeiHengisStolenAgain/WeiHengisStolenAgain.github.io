@@ -1,14 +1,17 @@
 html, body
 {
-	background-image:url("http://www.wallcoo.net/cartoon/abstract_blue_backgrounds_1920x1200/wallpapers/1920x1200/Abstract%20Blue%20backgrounds%208.jpg");
+	background-image:url("http://www.magic4walls.com/wp-content/uploads/2014/04/telephone-booth-minimalist-wallpaper-birds-shadow-vector-wallpaper.jpg");
 	height: 98%;
 	width: 98%;
+	background-size: 100% 100%;
 	text-align: center;
 	font-size: 18px;
+	margin: auto;
+	padding: 8px;
 }
 
 h1 {
-	color: blue;
+	color: black;
 	font-size: 80px;
 }
 
@@ -25,6 +28,22 @@ h3 {color:black;
 	text-align: center;
 }
 
+#navigation {
+	border: 1px solid black;
+	width: 20%;
+	margin-left:20%;
+	height: 400px;
+	float: left;
+}
+
+#info{
+	border: 1px solid black;
+	margin-left: 20%;
+	margin-right: 20%;
+	font-size: 20px;
+	vertical-align: center;
+	height: 400px;
+}
 
 
 
